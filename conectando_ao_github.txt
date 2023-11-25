@@ -1,0 +1,5 @@
+- Para enviar arquivos do nosso computador para o github é necessário digitar o comando abaixo no terminal:
+    . git push origin [nome da branch]
+- Para fazer o inverso, ou seja, pegar os arquivos que estão salvos no nosso repositório no Github e transferir para no computador, precisamos do comando abaixo:
+    . git pull origin master
+    
