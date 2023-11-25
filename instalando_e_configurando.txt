@@ -1,0 +1,9 @@
+Abaixo segue o link para instalação do Git, lembrando que ao entrar no site, você precisa rolar a página para baixo até encontrar a opção equivalente ao seu sistema operacional
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+
+Após a instalação, será necessário abrir o seu terminal e digitar:
+    git config --global user.name "aqui dentro do entre aspas você coloca seu nome e sobrenome"
+    git config --global user.email "aqui você coloca seu email"
+Depois você pode conferir digitando no terminal:
+    git config --list
+Em seguida você vai verificar se bate as informações com o que você tinha botado, pois vai mostrar no terminal o usuário e email.
