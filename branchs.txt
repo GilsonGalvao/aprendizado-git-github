@@ -1,0 +1,15 @@
+- Os branchs (ramos) serve para desenvolvermos features isolados.
+- A branch master é a principal.
+- É possível misturar as branchs usando o comando merge, ou seja: temos arquivos na branch "x" e queremos passar esses mesmos arquivo para branch "master", com isso utilizamos o comando merge e conseguimos transferir o arquivo de uma branch para outra.
+- Comandos:
+    - git branch
+        . mostra quais branchs temos disponíveis no nosso projeto
+    - git branch [nome desejado para nova branch]
+        . cria uma nova branch
+    - git checkout [nome da branch]
+        . Muda de uma branch para outra no terminal
+    - git branch -D [nome da branch]
+        . Deleta a branch selecionada
+    - git merge [nome da branch que deseja receber os arquivos da branch atual]
+        . Transfere arquivos da branch atual para branch desejada
+    
