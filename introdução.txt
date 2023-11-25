@@ -1,0 +1,8 @@
+* Git é um sistema de controle de versão de arquivos. Com ele podemos desenvolver projetos colaborativos com maior facilidade.
+Ou seja: 
+    - Registra diferentes modificações de um arquivo; 
+    - permite recuperar uma versão anterior específica;
+    - Pode resolver problemas, como: perda de arquivo importante e resgate de versões anteriores
+
+* Github é um serviço de hospedagem para projetos Git. Ele permite projetos que sejam privados como projetos Open Source.
+O Github é também muito interessante pelo fato de permitir um networking entre diversos programadores, além de servir como um portfólio online.
